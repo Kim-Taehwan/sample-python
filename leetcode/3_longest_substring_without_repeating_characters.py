@@ -9,4 +9,4 @@ class Solution:
 _s = 'abcabcbb'
 sol = Solution()
 answer = sol.length_of_longest_substring(_s)
-logging.info(f'test:{answer}')
+print(f'test:{answer}')
